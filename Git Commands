@@ -1,0 +1,12 @@
+git init
+
+git add .
+
+git commit -m "Initial Release"
+
+git branch -M main
+
+git remote add origin https://github.com/xsazedul/TempMail-FreeDisposableTemporaryEmail
+.git
+
+git push -u origin main
